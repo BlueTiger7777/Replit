@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Misc/DiscordRP.py"
+run = "python DiscordBots/P.I.E.S/bot.py"

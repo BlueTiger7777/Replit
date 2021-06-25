@@ -436,4 +436,4 @@ async def power(ctx, Valin, Powerin):
 #    await ctx.send('`clear` Command Requiers An Amount Of Messages To Deleat')
 
 #token to run the bot
-client.run('Nzk2MzI5OTcwMjg3OTAyNzQw.X_WWFA.UBW4nTt0whwSMV13z2QCtXpBHrA')
+client.run('')
